@@ -19,7 +19,7 @@ KPI's Requirements:-
 - Number of items: The total count of different items sold.
 - Average Rating: The average customer rating for items sold.
 
-![Dashboard](https://github.com/theshreyasinharoy/Assets/blob/main/Blinkit.PNG)
+![Dashboard](Blinkit.PNG)
 
 ### Data Source
 - [Download Here](https://docs.google.com/spreadsheets/d/1VH_Qfnt_bWkR2tdSeh6R1P1erAQWqoBV/edit?usp=sharing&ouid=117512632267907036978&rtpof=true&sd=true)
